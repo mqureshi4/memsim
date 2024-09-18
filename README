@@ -1,0 +1,14 @@
+This directory conducts the performance evaluation (for RFM-16 and RFM-32)
+
+To generate the figure, the the following commands:
+
+cd SCRIPTS
+./runall.sh
+
+The expeiments may take 2-3 hours.
+
+Once finished, the scripts should gather data in rfmsb.txt
+
+Then scripts should also generate rfmsb.pdf using the python scirpt rfmsb.py
+
+
