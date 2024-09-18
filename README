@@ -1,6 +1,6 @@
 This directory conducts the performance evaluation (for RFM-16 and RFM-32)
 
-To generate the figure, the the following commands:
+To generate the figure, the following commands:
 
 cd SCRIPTS
 ./runall.sh
