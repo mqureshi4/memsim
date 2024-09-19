@@ -4,7 +4,7 @@ The simplicity of memsim makes it ideal for use in classrooms (where ramp-up tim
 
 The code provided with the first commit represents the artifact evaluation code from the MINT paper (MICRO 2024). 
 
-We have validated the results with DRAMSim3, a highly accurate (albeit more complex) DRAM simulator, and obtained similar slowdowns. 
+We have validated the results with DRAMSim3, a highly accurate (albeit more complex) DRAM simulator, and obtained similar slowdowns for RFM-16 and RFM-32. 
 
 The directory structure is as follows:
 -- src: contains the source code (about 16 files)
