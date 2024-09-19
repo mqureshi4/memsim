@@ -12,13 +12,13 @@ The directory structure is as follows:
 -- RESULTS: storing results from simulations
 -- TRACES: We provide traces for SPEC workloads (~400MB)
 
-To generate the performance figure from the MINT paper, the following commands:
+To generate the performance figure from the MINT paper, edit the following commands:
 
 cd SCRIPTS
 ./runall.sh
 
-The expeiments may take 2 hours.
+The experiments may take 2 hours.
 Once finished, the scripts should gather data in rfmsb.txt
-Then scripts should also generate rfmsb.pdf using the python scirpt rfmsb.py
+The scripts should also generate rfmsb.pdf using the python script rfmsb.py
 
 
